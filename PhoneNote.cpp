@@ -150,5 +150,5 @@ int main() {
             cout << get<1>(answer);
         else
             cout << get<0>(answer);
-        cout << endl;
+        cout << endl;};
     };
